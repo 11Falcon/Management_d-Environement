@@ -4,7 +4,7 @@ so first thing you need is to create a python environment using:
 Second thing is to run the next command to install all the dependencies: 
 -> pip install ultralytics  
 
-
+-> pip install --upgrade google-api-python-client
 
 
 
